@@ -9,6 +9,7 @@ flask-restful = "*"
 hashids = "*"
 flask-sqlalchemy = "*"
 flask-migrate = "*"
+greenlet = "*"
 
 [dev-packages]
 
